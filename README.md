@@ -1,2 +1,2 @@
-# software_engineering_class
-Kent State Software Engineering Class Spring 2017
+# cloud_infrastructure_class
+Kent State ST Cloud Infrastructure Class Spring 2017
